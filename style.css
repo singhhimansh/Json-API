@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(236, 239, 243);
+}
+
+
+#container {
+    max-width: 500px;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div h2 {
+    margin: 5% auto;
+    text-align: center;
+    color: #392fa8;
+}
+
+#btncontainer {
+    max-width: 200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #dbeafe;
+    border: 2px #9a93dd solid;
+    border-radius: 10px;
+    color: rgb(18, 67, 181);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 2px;
+    cursor: pointer;
+    transition: 250ms;
+}
+
+.btn:hover {
+    color: aliceblue;
+    background-color: #675bd4;
+    transform: scale(1.05);
+    
+}

@@ -1,0 +1,32 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Complete the mathematics tutorial",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Buy groceries for today's dinner",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Drop Rohan at cricket academy",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Add custom pallets in the designing project",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Prepare ppt for tommorow's meeting",
+      "completed": false
+    }
+]
